@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Test_oldPublii0.40.3",
+    "description": "",
+    "home_page_url": "https://thibaultusel.github.io/PubliiTest",
+    "feed_url": "https://thibaultusel.github.io/PubliiTest/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Thibault Usel"
+    },
+    "items": [
+        {
+            "id": "https://thibaultusel.github.io/PubliiTest/test-de-page.html",
+            "url": "https://thibaultusel.github.io/PubliiTest/test-de-page.html",
+            "title": "test de page",
+            "summary": "on croise les doigts voyons si ça marche.",
+            "content_html": "<p>on croise les doigts</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://thibaultusel.github.io/PubliiTest/media/posts/1/squid-violet.png\" sizes=\"100vw\" srcset=\"https://thibaultusel.github.io/PubliiTest/media/posts/1/responsive/squid-violet-xs.png 300w ,https://thibaultusel.github.io/PubliiTest/media/posts/1/responsive/squid-violet-sm.png 480w ,https://thibaultusel.github.io/PubliiTest/media/posts/1/responsive/squid-violet-md.png 768w ,https://thibaultusel.github.io/PubliiTest/media/posts/1/responsive/squid-violet-lg.png 1024w ,https://thibaultusel.github.io/PubliiTest/media/posts/1/responsive/squid-violet-xl.png 1360w ,https://thibaultusel.github.io/PubliiTest/media/posts/1/responsive/squid-violet-2xl.png 1600w\"  alt=\"\" width=\"398\" height=\"457\"></figure>\n<p>voyons si ça marche.</p>",
+            "image": "https://thibaultusel.github.io/PubliiTest/media/posts/1/peacockSquid.png",
+            "author": {
+                "name": "Thibault Usel"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-11-16T12:42:04+01:00",
+            "date_modified": "2022-11-16T12:46:51+01:00"
+        }
+    ]
+}

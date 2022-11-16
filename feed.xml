@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Test_oldPublii0.40.3</title>
+    <link href="https://thibaultusel.github.io/PubliiTest/feed.xml" rel="self" />
+    <link href="https://thibaultusel.github.io/PubliiTest" />
+    <updated>2022-11-16T12:46:51+01:00</updated>
+    <author>
+        <name>Thibault Usel</name>
+    </author>
+    <id>https://thibaultusel.github.io/PubliiTest</id>
+
+    <entry>
+        <title>test de page</title>
+        <author>
+            <name>Thibault Usel</name>
+        </author>
+        <link href="https://thibaultusel.github.io/PubliiTest/test-de-page.html"/>
+        <id>https://thibaultusel.github.io/PubliiTest/test-de-page.html</id>
+
+        <updated>2022-11-16T12:46:51+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://thibaultusel.github.io/PubliiTest/media/posts/1/peacockSquid.png" alt="" />
+                    on croise les doigts voyons si ça marche.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://thibaultusel.github.io/PubliiTest/media/posts/1/peacockSquid.png" alt="" />
+                <p>on croise les doigts</p>
+<figure class="post__image"><img loading="lazy"  src="https://thibaultusel.github.io/PubliiTest/media/posts/1/squid-violet.png" sizes="100vw" srcset="https://thibaultusel.github.io/PubliiTest/media/posts/1/responsive/squid-violet-xs.png 300w ,https://thibaultusel.github.io/PubliiTest/media/posts/1/responsive/squid-violet-sm.png 480w ,https://thibaultusel.github.io/PubliiTest/media/posts/1/responsive/squid-violet-md.png 768w ,https://thibaultusel.github.io/PubliiTest/media/posts/1/responsive/squid-violet-lg.png 1024w ,https://thibaultusel.github.io/PubliiTest/media/posts/1/responsive/squid-violet-xl.png 1360w ,https://thibaultusel.github.io/PubliiTest/media/posts/1/responsive/squid-violet-2xl.png 1600w"  alt="" width="398" height="457"></figure>
+<p>voyons si ça marche.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

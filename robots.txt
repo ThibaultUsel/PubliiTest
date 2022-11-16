@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://thibaultusel.github.io/PubliiTest/sitemap.xml
